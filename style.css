@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@600&display=swap');
+
+:root{
+    --font-family:'Cairo', sans-serif;
+    --bg-color: #FF1F1F;
+    --secundary-bg-color: #11CC00;
+    --primary-color: #FBEAD1 ;
+}
+
+body{
+    font-family: var(--font-family);
+    color: var(--primary-color);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 0%; 
+}
+
+h1{
+    font-size: 4em;
+}
+
+h2{
+    font-size: 2em;
+    margin-top: 15px;
+}
+
+.mensagem{
+    font-size: 1.5em;
+    margin-top: 25px;
+}
+
+.box{
+    border: 3px solid var(--primary-color);
+    display: inline-block;
+    font-size: 4em;
+    margin:0.1em;
+    padding: 0.1em;
+}
+
+#btn-jogar-novamente{
+    background-color: transparent;
+    color: var(--primary-color);
+    font-family: var(--font-family);
+    border: 3px solid var(--primary-color);
+    border-radius: 45px;
+    margin-top: 1.2rem;
+    padding: 0.5rem;
+    font-size: 1.2rem;
+}
+
+#btn-iniciar{
+    background-color: transparent;
+    color: var(--primary-color);
+    font-family: var(--font-family);
+    border: 3px solid var(--primary-color);
+    border-radius: 30px;
+    margin-top: 1.2rem;
+    padding: 0.5rem;
+    font-size: 2rem;
+}
+
+a{
+    text-decoration: none;
+    color: var(--primary-color);
+}
+
+.hidden{
+    display: none;
+}
