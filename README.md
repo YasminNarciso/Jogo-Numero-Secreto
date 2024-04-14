@@ -6,3 +6,5 @@ Desafie seus amigos em um jogo de adivinhação por voz, onde o objetivo é deci
 
 <a href="https://jogo-numero-secreto-sandy-iota.vercel.app/" target="_blank">Texto do link</a>
 
+<a href="[test.html](https://jogo-numero-secreto-sandy-iota.vercel.app/)" onclick="return ! window.open(this.href);">Open in a new window</a>
+
