@@ -3,8 +3,3 @@ Desafie seus amigos em um jogo de adivinhação por voz, onde o objetivo é deci
 
 ## 📁 Acesso ao projeto
 [Veja o projeto final do curso em funcionamento](https://jogo-numero-secreto-sandy-iota.vercel.app/)
-
-<a href="https://jogo-numero-secreto-sandy-iota.vercel.app/" target="_blank">Texto do link</a>
-
-<a href="https://jogo-numero-secreto-sandy-iota.vercel.app/" onclick="return ! window.open(this.href);">Open in a new window</a>
-
